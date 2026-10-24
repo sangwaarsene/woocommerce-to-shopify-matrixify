@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.env
+.DS_Store
+.venv/
+venv/
+
+# Never commit real store data
+data/private/
+*_real.*
+~$*
